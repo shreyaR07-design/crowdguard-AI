@@ -1,3 +1,6 @@
+https://crowdguard-ai-cyff.onrender.com/
+
+
 # CrowdGuard AI — Intelligent 3D Emergency Crowd Safety System
 
 CrowdGuard AI is a dynamic, full-stack 3D emergency crowd safety web application designed for campus venues, stadiums, and high-density environments. It combines a real-time 3D Three.js digital twin of a college campus with a Python FastAPI backend and an algorithmic AI risk analysis engine.
